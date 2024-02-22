@@ -18,7 +18,7 @@ Before you start, ensure you have the following installed:
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/zksync-paymaster.git
+git clone https://github.com/codeesura/zksync-paymaster.git
 cd zksync-paymaster
 cp .env.example .env
 ```
@@ -43,7 +43,7 @@ DEPLOYER_WALLET_PRIVATE_KEY=your_wallet_private_key_here
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/zksync-paymaster.git
+git clone https://github.com/codeesura/zksync-paymaster.git
 cd zksync-paymaster
 cp .env.example .env
 ```
