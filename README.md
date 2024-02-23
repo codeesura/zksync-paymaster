@@ -1,3 +1,5 @@
+typo?
+
 ## Overview
 
 `zksync-paymaster` is a repository containing scripts and configurations for deploying and utilizing a paymaster smart contract on the zkSync network. This repository provides a streamlined way to interact with ERC20 tokens and a paymaster contract, specifically designed to work with Hardhat and zkSync's Ethereum Layer 2 scaling solution.
